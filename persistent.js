@@ -1,5 +1,5 @@
 
-const IFRAME_URL = 'https://www.bth.se/utbildning/valj_bth/';
+const IFRAME_URL = '';
 
 async function do_meantime_work() {
 
